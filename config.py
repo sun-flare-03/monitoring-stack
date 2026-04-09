@@ -1,2 +1,2 @@
-# monitoring-stack configuration — rev 0
-DEFAULT_TIMEOUT = 30
+# monitoring-stack configuration — rev 2
+DEFAULT_TIMEOUT = 40
